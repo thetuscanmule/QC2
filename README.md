@@ -1,2 +1,0 @@
-# QC2
-Prototype
